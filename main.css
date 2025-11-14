@@ -1,0 +1,13 @@
+html {
+                font-size: 22px;
+            }
+            body {
+                color: whitesmoke;
+                font-family: 'courier new', monospace;
+                background-color: rgb(3, 58, 26);
+                text-align: center;
+                margin: 50px;
+                font-variant: small-caps;
+                font-style: oblique;
+                font-weight: lighter;
+            }
